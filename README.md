@@ -15,6 +15,7 @@ make a google sheet and grab the [id](https://productforums.google.com/forum/#!t
 
 ### Todo
 there's still some edge-case errors specific to IPVoid and some gmail error
+
 1. what to do when gmail inbox has no emails
 2. what to do when ipvoid doesn't have an ip address
 3. what to do when http request is too "fast" 
